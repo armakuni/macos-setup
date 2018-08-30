@@ -1,4 +1,4 @@
-# AK Mac Setup
+# AK MacOS Setup
 
 This repo contains a script that will install useful applications and utilities on MacOS.
 
