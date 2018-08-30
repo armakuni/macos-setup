@@ -18,8 +18,9 @@ This repo contains a script that will install useful applications and utilities 
 
 There's a chicken and egg situation here. Git isn't configured on MacOS out of the box and this script will install git for you.
 
+Download the zip file: https://github.com/armakuni/macos-setup/archive/master.zip
+
 ``` sh
-curl https://github.com/armakuni/macos-setup/archive/master.zip -o ~/Downloads/macos-setup.zip
-unzip -d ~/Downloads/macos-setup/ ~/Downloads/macos-setup.zip
-bash ~/Downloads/macos-setup/setup.sh
+unzip -d ~/Downloads/ ~/Downloads/macos-setup-master.zip
+bash ~/Downloads/macos-setup-master/setup.sh
 ```
