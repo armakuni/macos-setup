@@ -6,11 +6,13 @@ This repo contains a script that will install useful applications and utilities 
 - AWS CLI
 - BOSH CLI
 - Cloud Foundry CLI
+- Chrome
 - Docker
 - Git
 - Go
 - Homebrew
 - RBEnv
+- Slack
 - Terraform
 - Visual Studio Code
 
