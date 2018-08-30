@@ -3,6 +3,7 @@
 This repo contains a script that will install useful applications and utilities on MacOS.
 
 ### What will be installed?
+- 1Password
 - AWS CLI
 - BOSH CLI
 - Cloud Foundry CLI
@@ -15,6 +16,7 @@ This repo contains a script that will install useful applications and utilities 
 - Slack
 - Terraform
 - Visual Studio Code
+- Zoom
 
 ### How do I run it?
 
