@@ -1,0 +1,20 @@
+tap "homebrew/core"
+tap "homebrew/bundle"
+tap "homebrew/services"
+tap "caskroom/cask"
+tap "cloudfoundry/tap"
+
+brew "curl"
+brew "git"
+brew "wget"
+
+brew "awscli"
+brew "bosh-cli"
+brew "cf-cli"
+brew "go"
+brew "rbenv"
+brew "terraform"
+
+cask "google-chrome"
+cask "slack"
+cask "visual-studio-code"
