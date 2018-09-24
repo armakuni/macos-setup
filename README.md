@@ -17,6 +17,8 @@ This repo contains a script that will install useful applications and utilities 
 - Terraform
 - Visual Studio Code
 - Zoom
+- Pip
+- Yq
 
 ### How do I run it?
 
