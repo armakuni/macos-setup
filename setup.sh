@@ -32,3 +32,13 @@ $BREW_BIN tap Homebrew/bundle
 
 echo "Installing apps/binaries..."
 $BREW_BIN bundle
+
+PIP_BIN="/usr/local/bin/pip"
+echo "Checking if pip is installed"
+if [ ! -d $PIP_BIN ]; then
+    echo "Installing pip. It might ask you for your password to install"
+    /usr/bin/curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    /usr/bin/sudo python get-pip.py
+else 
+    echo "Pip already installed"
+fi

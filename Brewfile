@@ -14,6 +14,7 @@ brew "cf-cli"
 brew "go"
 brew "rbenv"
 brew "terraform"
+brew "yq"
 
 cask "google-chrome"
 cask "slack"
