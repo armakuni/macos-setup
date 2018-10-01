@@ -9,6 +9,7 @@ This repo contains a script that will install useful applications and utilities 
 - Cloud Foundry CLI
 - Chrome
 - Docker
+- Concourse Fly CLI
 - Git
 - Go
 - Homebrew
