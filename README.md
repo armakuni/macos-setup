@@ -20,6 +20,7 @@ This repo contains a script that will install useful applications and utilities 
 - Zoom
 - Pip
 - Yq
+- Git-crypt
 
 ### How do I run it?
 

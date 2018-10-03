@@ -15,6 +15,7 @@ brew "go"
 brew "rbenv"
 brew "terraform"
 brew "yq"
+brew "git-crypt"
 
 cask "google-chrome"
 cask "slack"
