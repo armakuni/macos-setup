@@ -3,6 +3,7 @@ tap "homebrew/bundle"
 tap "homebrew/services"
 tap "caskroom/cask"
 tap "cloudfoundry/tap"
+tap "git-duet/tap"
 
 brew "curl"
 brew "git"
@@ -10,7 +11,7 @@ brew "wget"
 brew "shellcheck"
 brew "shfmt"
 brew "gettext", link: true
-
+brew "git-duet"
 brew "awscli"
 brew "bosh-cli"
 brew "cf-cli"
@@ -22,6 +23,7 @@ brew "git-crypt"
 brew "pinentry-mac"
 brew "gnupg"
 brew "python"
+
 
 cask "google-chrome"
 cask "slack"
