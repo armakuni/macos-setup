@@ -28,7 +28,7 @@ This repo contains a script that will install useful applications and utilities 
 
 ``` sh
 git clone git@github.com:armakuni/macos-setup.git
-bash macos-setup/setup.sh
+make setup
 ```
 
 ##### If you haven't got git installed already
@@ -37,5 +37,5 @@ Download the zip file: https://github.com/armakuni/macos-setup/archive/master.zi
 
 ``` sh
 unzip -d ~/Downloads/ ~/Downloads/macos-setup-master.zip
-bash ~/Downloads/macos-setup-master/setup.sh
+make setup
 ```

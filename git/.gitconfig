@@ -1,0 +1,12 @@
+[rebase]
+	autoStash = true
+	autoSquash = true
+[commit]
+	verbose = true
+	gpgsign = true
+	template = $HOME/.gitmessage
+[core]
+	editor = "vim"
+	excludesfile = $HOME/.gitignore
+[branch "master"]
+	rebase = true
