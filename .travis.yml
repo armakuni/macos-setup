@@ -1,0 +1,9 @@
+os: osx
+
+# Add more targets here to run them as seperate parallel jobs
+env:
+- TARGET=setup
+- TARGET=lint
+- TARGET=show-help
+
+script: make $TARGET
