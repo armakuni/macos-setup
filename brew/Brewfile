@@ -5,6 +5,7 @@ tap "caskroom/cask"
 tap "cloudfoundry/tap"
 tap "git-duet/tap"
 
+brew "git-lfs"
 brew "curl"
 brew "git"
 brew "wget"
