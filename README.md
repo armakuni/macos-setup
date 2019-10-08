@@ -39,3 +39,10 @@ Download the zip file: https://github.com/armakuni/macos-setup/archive/master.zi
 unzip -d ~/Downloads/ ~/Downloads/macos-setup-master.zip
 make install-packages
 ```
+
+#### For a fully featured setup...
+The below command will install all the default software to get you dev environment setup, but also includes configuration for vim, enables git-duet, and gnupg.
+
+```sh
+make setup
+```
