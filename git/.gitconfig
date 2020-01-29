@@ -3,7 +3,7 @@
 	autoSquash = true
 [commit]
 	verbose = true
-	gpgsign = true
+	gpgsign = false
 	template = $HOME/.gitmessage
 [core]
 	editor = "vim"
