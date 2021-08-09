@@ -24,6 +24,7 @@ brew "git-crypt"
 brew "pinentry-mac"
 brew "gnupg"
 brew "python"
+brew "direnv"
 
 
 cask "google-chrome"
