@@ -5,6 +5,8 @@ tap "homebrew/cask"
 tap "cloudfoundry/tap"
 tap "git-duet/tap"
 
+brew "gnutls" 
+
 brew "vim"
 brew "git-lfs"
 brew "curl"
